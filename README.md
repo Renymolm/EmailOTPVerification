@@ -1,1 +1,1 @@
-# EmailOTPVerification
+# Email OTP Verification using Java
